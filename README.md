@@ -1,5 +1,5 @@
 # Dual-Rail-Supply-For-Breadboard
-To test OP-AMP circuits we need dual rail voltages. This circuit will provide +V, GND and -V to the breadboard.
+This circuit will provide +V, GND, and -V to the breadboard which is very useful for testing OP-AMP circuits. You can power this circuit with a 12V DC Jack and Micro USB Cable!
 
 # Project Image
 ![N|Solid](https://raw.githubusercontent.com/naman-tanwar/Dual-Rail-Supply-For-Breadboard/main/Images/Final%20PCB/Closeup%202.jpg)
