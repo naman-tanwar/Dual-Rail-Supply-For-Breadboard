@@ -13,4 +13,4 @@ The Output voltage can be adjusted using the potentiometer provided. The max out
 ![N|Solid](https://raw.githubusercontent.com/naman-tanwar/Dual-Rail-Supply-For-Breadboard/main/Images/PCB%20Render/PCB2.PNG)
 
 # 3D View
-![N|Solid](https://raw.githubusercontent.com/naman-tanwar/Dual-Rail-Supply-For-Breadboard/main/Images/PCB%20Render/3D%20View%202.png)
+![N|Solid](https://raw.githubusercontent.com/naman-tanwar/Dual-Rail-Supply-For-Breadboard/main/Images/PCB%20Render/3D%20View%203.png)
