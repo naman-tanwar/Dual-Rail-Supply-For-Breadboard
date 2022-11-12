@@ -1,0 +1,24 @@
+Ref,Val,Package,PosX,PosY,Rot,Side
+"C1","0.01u","C_Disc_D5.0mm_W2.5mm_P2.50mm",140.250000,-72.500000,0.000000,top
+"C2","1000uF","CP_Radial_D12.5mm_P5.00mm",146.323959,-108.400000,180.000000,top
+"C3","470u","CP_Radial_D10.0mm_P5.00mm",175.367677,-120.500000,180.000000,top
+"C4","470u","CP_Radial_D10.0mm_P5.00mm",159.767677,-120.600000,180.000000,top
+"D1","1N5820","D_DO-201AD_P12.70mm_Horizontal",154.000000,-65.150000,90.000000,top
+"J1","Jack-DC","BarrelJack_Horizontal",148.400000,-58.842500,0.000000,top
+"J2","Conn_01x02_Male","custom_PinHeader_1x02_P2.54mm_Vertical",189.738000,-120.751600,90.000000,top
+"J3","Conn_01x02_Male","custom_PinHeader_1x02_P2.54mm_Vertical",139.458000,-120.751600,90.000000,top
+"J4","Conn_01x02_Male","custom_PinHeader_1x02_P2.54mm_Vertical",189.738000,-123.291600,90.000000,top
+"J5","Conn_01x02_Male","custom_PinHeader_1x02_P2.54mm_Vertical",139.458000,-123.291600,90.000000,top
+"J6","Conn_01x02_Male","custom_PinHeader_1x02_P2.54mm_Vertical",189.738000,-125.831600,90.000000,top
+"J7","Conn_01x02_Male","custom_PinHeader_1x02_P2.54mm_Vertical",139.458000,-125.831600,90.000000,top
+"J8","Conn_01x02_Male","custom_PinHeader_1x02_P2.54mm_Vertical",189.738000,-128.371600,90.000000,top
+"J9","Conn_01x02_Male","custom_PinHeader_1x02_P2.54mm_Vertical",139.458000,-128.371600,90.000000,top
+"J10","USB_B_Micro","USB_Micro-AB_Molex_47590-0001",145.200000,-48.200000,180.000000,top
+"Q1","IRF9540N","TO-220-3_Vertical",142.646400,-85.598000,90.000000,top
+"Q2","TIP41","TO-220-3_Vertical",188.055000,-96.960000,-90.000000,top
+"Q3","TIP42","TO-220-3_Vertical",188.000000,-110.000000,-90.000000,top
+"R1","100k","R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal",174.500000,-96.650000,-90.000000,top
+"R2","100k","R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal",156.262800,-97.056400,-90.000000,top
+"U1","Boost_Convertor","MT3608 boost",160.232900,-54.849800,-90.000000,top
+"U2","Voltage_Display","Voltage_disp_2wire",166.700200,-80.441800,0.000000,top
+"U3","LM741","DIP-8_W7.62mm_Socket_LongPads",161.966600,-99.416000,0.000000,top

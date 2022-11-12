@@ -1,0 +1,5 @@
+--------------------------------
+Note: For 3D models
+--------------------------------
+
+You need to specify the path of the given 3d models in the KiCad to view them in the final PCB.
