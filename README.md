@@ -1,4 +1,5 @@
 # Dual-Rail-Supply-For-Breadboard
+A Breadboard attachable Dual Rail power supply.
 This circuit will provide +V, GND, and -V to the breadboard which is very useful for testing OP-AMP circuits. You can power this circuit with a 12V DC Jack and Micro USB Cable!
 The Output voltage can be adjusted using the potentiometer provided. The max output voltage is around 27V (+13.5V and -13.5V). The Display shows the total output voltage.
 
